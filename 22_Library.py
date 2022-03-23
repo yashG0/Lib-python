@@ -42,7 +42,7 @@ class Library:
 
 if __name__ == '__main__':
     harry = Library(['Python', 'Rich Daddy Poor Daddy', 'Harry Potter',
-                    'C++ Basics', 'Algorithms by CLRS'], "CodeWithHarry")
+                    'C++ Basics', 'Algorithms by CLRS'], "YASH LIBRARY")
 
     while(True):
         print(
